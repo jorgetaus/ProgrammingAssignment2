@@ -9,8 +9,6 @@
 ## 4 get the value of the inverse
 
 
-
-
 makeCacheMatrix <- function(x = matrix()) {
 
   m <- NULL
